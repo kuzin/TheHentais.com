@@ -314,7 +314,8 @@ module.exports = function (grunt) {
                         'images/{,*/}*.webp',
                         '{,*/}*.html',
                         'styles/fonts/{,*/}*.*',
-                        'bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/*.*'
+                        'bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/*.*',
+                        'opengraph/*.*'
                     ]
                 }]
             },
